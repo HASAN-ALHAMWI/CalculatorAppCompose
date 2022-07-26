@@ -1,4 +1,4 @@
-package com.hasan.calculatorprep
+package com.hasan.calculatorappcompose
 
 import org.junit.Test
 

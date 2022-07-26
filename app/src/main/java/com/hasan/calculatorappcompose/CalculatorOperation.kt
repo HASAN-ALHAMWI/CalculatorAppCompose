@@ -1,4 +1,4 @@
-package com.hasan.calculatorprep
+package com.hasan.calculatorappcompose
 
 sealed class CalculatorOperation(val symbol: String) {
     object Add : CalculatorOperation("+")

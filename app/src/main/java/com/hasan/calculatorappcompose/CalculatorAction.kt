@@ -1,4 +1,4 @@
-package com.hasan.calculatorprep
+package com.hasan.calculatorappcompose
 
 sealed class CalculatorAction {
     data class Number(val number: Int) : CalculatorAction()

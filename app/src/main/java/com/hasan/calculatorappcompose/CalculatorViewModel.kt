@@ -1,4 +1,4 @@
-package com.hasan.calculatorprep
+package com.hasan.calculatorappcompose
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf

@@ -1,4 +1,4 @@
-package com.hasan.calculatorprep
+package com.hasan.calculatorappcompose
 
 data class CalculatorState(
     val number1: String = "",
